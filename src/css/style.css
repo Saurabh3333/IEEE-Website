@@ -658,18 +658,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translate3d(0, 0, 0);
 }
 
-/* Testimonials Section
+/* Testimonials1 Section
 --------------------------------*/
-#testimonials {
+#testimonials1 {
   background: #f6f6f6;
   padding: 80px 0;
 }
 
-#testimonials .profile {
+#testimonials1 .profile {
   text-align: center;
 }
 
-#testimonials .profile .pic {
+#testimonials1 .profile .pic {
   border-radius: 50%;
   border: 6px solid #fff;
   margin-bottom: 15px;
@@ -678,21 +678,21 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 260px;
 }
 
-#testimonials .profile .pic img {
+#testimonials1 .profile .pic img {
   max-width: 100%;
 }
 
-#testimonials .profile h4 {
+#testimonials1 .profile h4 {
   font-weight: 700;
   color: #03C4EB;
   margin-bottom: 5px;
 }
 
-#testimonials .profile span {
+#testimonials1 .profile span {
   color: #333333;
 }
 
-#testimonials .quote {
+#testimonials1 .quote {
   position: relative;
   background: #fff;
   padding: 60px;
@@ -702,7 +702,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 5px;
 }
 
-#testimonials .quote b {
+#testimonials1 .quote b {
   display: inline-block;
   font-size: 22px;
   left: -9px;
@@ -710,12 +710,72 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: -8px;
 }
 
-#testimonials .quote small {
+#testimonials1 .quote small {
   display: inline-block;
   right: -9px;
   position: relative;
   top: 4px;
 }
+
+/* Testimonials2 Section
+--------------------------------*/
+#testimonials2 {
+  background: #f6f6f6;
+  padding: 80px 0;
+}
+
+#testimonials2 .profile {
+  text-align: center;
+}
+
+#testimonials2 .profile .pic {
+  border-radius: 50%;
+  border: 6px solid #fff;
+  margin-bottom: 15px;
+  overflow: hidden;
+  height: 260px;
+  width: 260px;
+}
+
+#testimonials2 .profile .pic img {
+  max-width: 100%;
+}
+
+#testimonials2 .profile h4 {
+  font-weight: 700;
+  color: #03C4EB;
+  margin-bottom: 5px;
+}
+
+#testimonials2 .profile span {
+  color: #333333;
+}
+
+#testimonials2 .quote {
+  position: relative;
+  background: #fff;
+  padding: 60px;
+  margin-top: 40px;
+  font-size: 16px;
+  font-style: italic;
+  border-radius: 5px;
+}
+
+#testimonials2 .quote b {
+  display: inline-block;
+  font-size: 22px;
+  left: -9px;
+  position: relative;
+  top: -8px;
+}
+
+#testimonials2 .quote small {
+  display: inline-block;
+  right: -9px;
+  position: relative;
+  top: 4px;
+}
+
 
 /* Team Section
 --------------------------------*/
